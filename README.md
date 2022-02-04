@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Lincoln Yan. https://yyjlincoln.com/
+
 <!--
 **yyjlincoln/yyjlincoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
